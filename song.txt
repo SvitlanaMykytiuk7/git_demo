@@ -24,3 +24,5 @@ finish new branch
 
 
 merge merge
+
+git resolve conflict 1
